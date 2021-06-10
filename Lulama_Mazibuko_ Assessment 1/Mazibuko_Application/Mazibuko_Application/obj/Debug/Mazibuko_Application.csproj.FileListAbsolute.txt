@@ -1,0 +1,15 @@
+C:\Users\Code Art\source\repos\Mazibuko_Application\Mazibuko_Application\obj\Debug\Mazibuko_Application.csproj.AssemblyReference.cache
+C:\Users\Code Art\source\repos\Mazibuko_Application\Mazibuko_Application\obj\Debug\MainWindow.g.cs
+C:\Users\Code Art\source\repos\Mazibuko_Application\Mazibuko_Application\obj\Debug\App.g.cs
+C:\Users\Code Art\source\repos\Mazibuko_Application\Mazibuko_Application\obj\Debug\Mazibuko_Application_MarkupCompile.cache
+C:\Users\Code Art\source\repos\Mazibuko_Application\Mazibuko_Application\obj\Debug\Mazibuko_Application_MarkupCompile.lref
+C:\Users\Code Art\source\repos\Mazibuko_Application\Mazibuko_Application\bin\Debug\Mazibuko_Application.exe.config
+C:\Users\Code Art\source\repos\Mazibuko_Application\Mazibuko_Application\bin\Debug\Mazibuko_Application.exe
+C:\Users\Code Art\source\repos\Mazibuko_Application\Mazibuko_Application\bin\Debug\Mazibuko_Application.pdb
+C:\Users\Code Art\source\repos\Mazibuko_Application\Mazibuko_Application\obj\Debug\MainWindow.baml
+C:\Users\Code Art\source\repos\Mazibuko_Application\Mazibuko_Application\obj\Debug\Mazibuko_Application.g.resources
+C:\Users\Code Art\source\repos\Mazibuko_Application\Mazibuko_Application\obj\Debug\Mazibuko_Application.Properties.Resources.resources
+C:\Users\Code Art\source\repos\Mazibuko_Application\Mazibuko_Application\obj\Debug\Mazibuko_Application.csproj.GenerateResource.cache
+C:\Users\Code Art\source\repos\Mazibuko_Application\Mazibuko_Application\obj\Debug\Mazibuko_Application.csproj.CoreCompileInputs.cache
+C:\Users\Code Art\source\repos\Mazibuko_Application\Mazibuko_Application\obj\Debug\Mazibuko_Application.exe
+C:\Users\Code Art\source\repos\Mazibuko_Application\Mazibuko_Application\obj\Debug\Mazibuko_Application.pdb
